@@ -1,0 +1,92 @@
+\documentclass[a4paper,14pt,openany]{book}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{mdframed}
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\usepackage{colortbl}% http://ctan.org/pkg/colortbl
+\usepackage{xcolor}% http://ctan.org/pkg/xcolor
+\newcommand{\topheading}[1]{\multicolumn{2}{c}{\textsf{\textbf{#1}}}}%
+\newcommand{\midheading}[1]{\multicolumn{2}{l}{\cellcolor{black!5}\textsf{#1}}}%
+\usepackage{tabularx} % Allows table to take up a specified width
+
+\newenvironment{ejemplos}
+  {\begin{mdframed}[backgroundcolor=blue!20, skipabove=\baselineskip, skipbelow=\baselineskip, leftmargin=-10, rightmargin=-10, innerleftmargin=10, innerrightmargin=10, innertopmargin=10, innerbottommargin=10]
+   \textbf{\large Ejemplos}
+   \begin{itemize}[label={}, leftmargin=*]
+  }
+  {\end{itemize}\end{mdframed}}
+
+\setlength\parindent{0pt}
+
+\newenvironment{gramatica}
+  {\begin{mdframed}[backgroundcolor=orange!20, skipabove=\baselineskip, skipbelow=\baselineskip, leftmargin=-10, rightmargin=-10, innerleftmargin=10, innerrightmargin=10, innertopmargin=10, innerbottommargin=10]
+   \textbf{\large Gramática}
+   \begin{itemize}[label={}, leftmargin=*]
+  }
+  {\end{itemize}\end{mdframed}}
+
+\setlength\parindent{0pt}
+
+\newenvironment{vocabulario}
+  {\begin{mdframed}[backgroundcolor=green!20, skipabove=\baselineskip, skipbelow=\baselineskip, leftmargin=-10, rightmargin=-10, innerleftmargin=10, innerrightmargin=10, innertopmargin=10, innerbottommargin=10]
+   \textbf{\large Vocabulario}
+   \begin{itemize}[label={}, leftmargin=*]
+  }
+  {\end{itemize}\end{mdframed}}
+
+\setlength\parindent{0pt}
+
+\newenvironment{frases}
+  {\begin{mdframed}[backgroundcolor=yellow!20, skipabove=\baselineskip, skipbelow=\baselineskip, leftmargin=-10, rightmargin=-10, innerleftmargin=10, innerrightmargin=10, innertopmargin=10, innerbottommargin=10]
+   \textbf{\large Frases}
+   \begin{itemize}[label={}, leftmargin=*]
+  }
+  {\end{itemize}\end{mdframed}}
+
+\setlength\parindent{0pt}
+
+
+
+% Page layout settings
+\geometry{
+    top=2.5cm,
+    bottom=2.5cm,
+    left=3cm,
+    right=3cm
+}
+
+% Header and Footer settings
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\lhead{\leftmark}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Title Page
+\title{\textbf{Gramática cheat sheet}}
+\author{Luki - Für dich Sara}
+\date{25.12.2023}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\include{a1_babbel}
+\include{verbos}
+\include{frases}
+\include{vocabulario}
+
+
+\end{document}

@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Babbel A1}{3}{}%
+\contentsline {section}{\numberline {1.1}Ser y estar}{3}{}%
+\contentsline {section}{\numberline {1.2}Presente continuo - Gerundio}{3}{}%
+\contentsline {section}{\numberline {1.3}Vokalwechsel bei unregelmäßigen Verben}{4}{}%
+\contentsline {section}{\numberline {1.4}Llevar + Gerundio}{5}{}%
+\contentsline {chapter}{\numberline {2}Verbos iregulares}{6}{}%
+\contentsline {chapter}{\numberline {3}Frases}{8}{}%
+\contentsline {chapter}{\numberline {4}Vocabulario}{9}{}%
