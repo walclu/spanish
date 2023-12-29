@@ -18,7 +18,14 @@
 \newcommand{\topheading}[1]{\multicolumn{2}{c}{\textsf{\textbf{#1}}}}%
 \newcommand{\midheading}[1]{\multicolumn{2}{l}{\cellcolor{black!5}\textsf{#1}}}%
 \usepackage{tabularx} % Allows table to take up a specified width
-
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
 \newenvironment{ejemplos}
   {\begin{mdframed}[backgroundcolor=blue!20, skipabove=\baselineskip, skipbelow=\baselineskip, leftmargin=-10, rightmargin=-10, innerleftmargin=10, innerrightmargin=10, innertopmargin=10, innerbottommargin=10]
    \textbf{\large Ejemplos}
