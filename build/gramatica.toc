@@ -12,7 +12,9 @@
 \contentsline {section}{\numberline {2.2}Fragewörter}{9}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Nomen mit unregelmäßiger Endung}{10}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Relativsätze mit \textit {que}}{11}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Verbos iregulares}{12}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Frases}{14}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Textos}{15}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Vocabulario}{16}{chapter.6}%
+\contentsline {section}{\numberline {2.5}Desde und desde hace}{11}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Imperativ}{12}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Verbos iregulares}{14}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Frases}{16}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Textos}{17}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Vocabulario}{18}{chapter.6}%
