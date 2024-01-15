@@ -25,20 +25,21 @@
 \contentsline {section}{\numberline {3.11}Das \textit {futuro simple}}{19}{section.3.11}%
 \contentsline {section}{\numberline {3.12}Vergleiche mit dem Komparativ}{20}{section.3.12}%
 \contentsline {section}{\numberline {3.13}Vergleiche mit dem Superlativ}{21}{section.3.13}%
-\contentsline {section}{\numberline {3.14}Adverbien}{21}{section.3.14}%
-\contentsline {section}{\numberline {3.15}muy und mucho}{22}{section.3.15}%
+\contentsline {section}{\numberline {3.14}Adverbien}{22}{section.3.14}%
+\contentsline {section}{\numberline {3.15}muy und mucho}{23}{section.3.15}%
 \contentsline {section}{\numberline {3.16}por und para}{23}{section.3.16}%
-\contentsline {section}{\numberline {3.17}Befehlsformen und Pronomen}{23}{section.3.17}%
+\contentsline {section}{\numberline {3.17}Befehlsformen und Pronomen}{24}{section.3.17}%
 \contentsline {section}{\numberline {3.18}Unregelmäßige Befehlsformen}{24}{section.3.18}%
-\contentsline {section}{\numberline {3.19}\textit {Condicional}}{24}{section.3.19}%
-\contentsline {section}{\numberline {3.20}Plusquamperfekt}{25}{section.3.20}%
+\contentsline {section}{\numberline {3.19}\textit {Condicional}}{25}{section.3.19}%
+\contentsline {section}{\numberline {3.20}Plusquamperfekt}{26}{section.3.20}%
 \contentsline {section}{\numberline {3.21}Das Wort \textit {deber}}{26}{section.3.21}%
-\contentsline {section}{\numberline {3.22}Die Endung -\textit {\'isimo} bei Adjektiven}{26}{section.3.22}%
+\contentsline {section}{\numberline {3.22}Die Endung -\textit {\'isimo} bei Adjektiven}{27}{section.3.22}%
 \contentsline {section}{\numberline {3.23}\textit {traer} und \textit {llevar}}{27}{section.3.23}%
-\contentsline {section}{\numberline {3.24}Das \textit {subjuntivo presente}}{27}{section.3.24}%
-\contentsline {section}{\numberline {3.25}Neutrale Demonstrativpronomen}{28}{section.3.25}%
+\contentsline {section}{\numberline {3.24}Das \textit {subjuntivo presente}}{28}{section.3.24}%
+\contentsline {section}{\numberline {3.25}Neutrale Demonstrativpronomen}{29}{section.3.25}%
 \contentsline {section}{\numberline {3.26}Betonte Possesivpronomen}{29}{section.3.26}%
-\contentsline {chapter}{\numberline {4}Verbos iregulares}{31}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Frases}{33}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Textos}{34}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Vocabulario}{35}{chapter.7}%
+\contentsline {section}{\numberline {3.27}Das \textit {imperfecto}}{30}{section.3.27}%
+\contentsline {chapter}{\numberline {4}Verbos iregulares}{32}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Frases}{34}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Textos}{35}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Vocabulario}{36}{chapter.7}%
