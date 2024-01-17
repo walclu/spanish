@@ -39,6 +39,7 @@
 \contentsline {section}{\numberline {3.25}Neutrale Demonstrativpronomen}{29}{section.3.25}%
 \contentsline {section}{\numberline {3.26}Betonte Possesivpronomen}{29}{section.3.26}%
 \contentsline {section}{\numberline {3.27}Das \textit {imperfecto}}{30}{section.3.27}%
+\contentsline {section}{\numberline {3.28}\textit {imperfecto} vs. \textit {indefinido}}{31}{section.3.28}%
 \contentsline {chapter}{\numberline {4}Verbos iregulares}{32}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Frases}{34}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Textos}{35}{chapter.6}%
