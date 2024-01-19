@@ -1,48 +1,48 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\numberline {1}To review}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}ser vs estar}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}por vs para}{3}{section.1.2}%
-\contentsline {section}{\numberline {1.3}llevar vs traer}{3}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Babbel A1}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Ser y estar}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Presente continuo - Gerundio}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Vokalwechsel bei unregelmäßigen Verben}{5}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Llevar + Gerundio}{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Pret\'erito perfecto}{6}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Häufigkeitsadverbien}{7}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Demonstrativbegleiter}{8}{section.2.7}%
-\contentsline {chapter}{\numberline {3}Babbel A2}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Die indirekten Objektpronomen}{10}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Fragewörter}{10}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Nomen mit unregelmäßiger Endung}{11}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Relativsätze mit \textit {que}}{12}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Desde und desde hace}{12}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Imperativ}{13}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Verdopplung der Objektpronomen}{14}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Die Verkleinerungsform \textit {-ito, cito}}{15}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Pr\'eterito Indefinido}{16}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Indefinido vs. pret\'erito perfecto}{17}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Das \textit {futuro simple}}{18}{section.3.11}%
-\contentsline {section}{\numberline {3.12}Vergleiche mit dem Komparativ}{19}{section.3.12}%
-\contentsline {section}{\numberline {3.13}Vergleiche mit dem Superlativ}{20}{section.3.13}%
-\contentsline {section}{\numberline {3.14}Adverbien}{21}{section.3.14}%
-\contentsline {section}{\numberline {3.15}muy und mucho}{22}{section.3.15}%
-\contentsline {section}{\numberline {3.16}por und para}{22}{section.3.16}%
-\contentsline {section}{\numberline {3.17}Befehlsformen und Pronomen}{23}{section.3.17}%
-\contentsline {section}{\numberline {3.18}Unregelmäßige Befehlsformen}{23}{section.3.18}%
-\contentsline {section}{\numberline {3.19}\textit {Condicional}}{24}{section.3.19}%
-\contentsline {section}{\numberline {3.20}Plusquamperfekt}{25}{section.3.20}%
-\contentsline {section}{\numberline {3.21}Das Wort \textit {deber}}{25}{section.3.21}%
-\contentsline {section}{\numberline {3.22}Die Endung -\textit {\'isimo} bei Adjektiven}{26}{section.3.22}%
-\contentsline {section}{\numberline {3.23}\textit {traer} und \textit {llevar}}{26}{section.3.23}%
-\contentsline {section}{\numberline {3.24}Das \textit {subjuntivo presente}}{27}{section.3.24}%
-\contentsline {section}{\numberline {3.25}Neutrale Demonstrativpronomen}{28}{section.3.25}%
-\contentsline {section}{\numberline {3.26}Betonte Possesivpronomen}{28}{section.3.26}%
-\contentsline {section}{\numberline {3.27}Das \textit {imperfecto}}{29}{section.3.27}%
-\contentsline {section}{\numberline {3.28}\textit {imperfecto} vs. \textit {indefinido}}{30}{section.3.28}%
-\contentsline {section}{\numberline {3.29}Das \textit {condicional perfecto}}{30}{section.3.29}%
-\contentsline {section}{\numberline {3.30}\textit {Todo} und \textit {cada}}{31}{section.3.30}%
-\contentsline {chapter}{\numberline {4}Verbos iregulares}{33}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Frases}{35}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Textos}{36}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Vocabulario}{37}{chapter.7}%
+\contentsline {chapter}{\numberline {1}To review}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}ser vs estar}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}por vs para}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}llevar vs traer}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Babbel A1}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ser y estar}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Presente continuo - Gerundio}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Vokalwechsel bei unregelmäßigen Verben}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Llevar + Gerundio}{7}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Pret\'erito perfecto}{7}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Häufigkeitsadverbien}{8}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Demonstrativbegleiter}{9}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Babbel A2}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Die indirekten Objektpronomen}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Fragewörter}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Nomen mit unregelmäßiger Endung}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Relativsätze mit \textit {que}}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Desde und desde hace}{13}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Imperativ}{14}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Verdopplung der Objektpronomen}{15}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Die Verkleinerungsform \textit {-ito, cito}}{16}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Pr\'eterito Indefinido}{17}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Indefinido vs. pret\'erito perfecto}{18}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Das \textit {futuro simple}}{19}{section.3.11}%
+\contentsline {section}{\numberline {3.12}Vergleiche mit dem Komparativ}{20}{section.3.12}%
+\contentsline {section}{\numberline {3.13}Vergleiche mit dem Superlativ}{21}{section.3.13}%
+\contentsline {section}{\numberline {3.14}Adverbien}{22}{section.3.14}%
+\contentsline {section}{\numberline {3.15}muy und mucho}{23}{section.3.15}%
+\contentsline {section}{\numberline {3.16}por und para}{23}{section.3.16}%
+\contentsline {section}{\numberline {3.17}Befehlsformen und Pronomen}{24}{section.3.17}%
+\contentsline {section}{\numberline {3.18}Unregelmäßige Befehlsformen}{24}{section.3.18}%
+\contentsline {section}{\numberline {3.19}\textit {Condicional}}{25}{section.3.19}%
+\contentsline {section}{\numberline {3.20}Plusquamperfekt}{26}{section.3.20}%
+\contentsline {section}{\numberline {3.21}Das Wort \textit {deber}}{26}{section.3.21}%
+\contentsline {section}{\numberline {3.22}Die Endung -\textit {\'isimo} bei Adjektiven}{27}{section.3.22}%
+\contentsline {section}{\numberline {3.23}\textit {traer} und \textit {llevar}}{27}{section.3.23}%
+\contentsline {section}{\numberline {3.24}Das \textit {subjuntivo presente}}{28}{section.3.24}%
+\contentsline {section}{\numberline {3.25}Neutrale Demonstrativpronomen}{29}{section.3.25}%
+\contentsline {section}{\numberline {3.26}Betonte Possesivpronomen}{29}{section.3.26}%
+\contentsline {section}{\numberline {3.27}Das \textit {imperfecto}}{30}{section.3.27}%
+\contentsline {section}{\numberline {3.28}\textit {imperfecto} vs. \textit {indefinido}}{31}{section.3.28}%
+\contentsline {section}{\numberline {3.29}Das \textit {condicional perfecto}}{32}{section.3.29}%
+\contentsline {section}{\numberline {3.30}\textit {Todo} und \textit {cada}}{32}{section.3.30}%
+\contentsline {chapter}{\numberline {4}Verbos iregulares}{34}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Frases}{36}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Textos}{37}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Vocabulario}{38}{chapter.7}%
