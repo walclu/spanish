@@ -42,7 +42,13 @@
 \contentsline {section}{\numberline {3.28}\textit {imperfecto} vs. \textit {indefinido}}{31}{section.3.28}%
 \contentsline {section}{\numberline {3.29}Das \textit {condicional perfecto}}{32}{section.3.29}%
 \contentsline {section}{\numberline {3.30}\textit {Todo} und \textit {cada}}{32}{section.3.30}%
-\contentsline {chapter}{\numberline {4}Verbos iregulares}{34}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Frases}{36}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Textos}{37}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Vocabulario}{38}{chapter.7}%
+\contentsline {section}{\numberline {3.31}Die Zukunft mit \textit {ir}}{33}{section.3.31}%
+\contentsline {section}{\numberline {3.32}Direkte vs. indirekte Objektpronomen}{33}{section.3.32}%
+\contentsline {section}{\numberline {3.33}Die Verwendung von \textit {mismo}}{34}{section.3.33}%
+\contentsline {section}{\numberline {3.34}Der reale Bedingungssatz}{34}{section.3.34}%
+\contentsline {section}{\numberline {3.35}\textit {mientras}, \textit {durante} und \textit {cuando}}{35}{section.3.35}%
+\contentsline {section}{\numberline {3.36}Vergleiche bei Nomen}{35}{section.3.36}%
+\contentsline {chapter}{\numberline {4}Verbos iregulares}{37}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Frases}{39}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Textos}{40}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Vocabulario}{41}{chapter.7}%
