@@ -42,7 +42,15 @@
 \contentsline {section}{\numberline {4.26}Betonte Possesivpronomen}{30}{section.4.26}%
 \contentsline {section}{\numberline {4.27}Das \textit {imperfecto}}{31}{section.4.27}%
 \contentsline {section}{\numberline {4.28}\textit {imperfecto} vs. \textit {indefinido}}{32}{section.4.28}%
-\contentsline {chapter}{\numberline {5}Verbos iregulares}{33}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Frases}{35}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Textos}{36}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Vocabulario}{37}{chapter.8}%
+\contentsline {section}{\numberline {4.29}Das \textit {condicional perfecto}}{33}{section.4.29}%
+\contentsline {section}{\numberline {4.30}\textit {Todo} und \textit {cada}}{33}{section.4.30}%
+\contentsline {section}{\numberline {4.31}Die Zukunft mit \textit {ir}}{34}{section.4.31}%
+\contentsline {section}{\numberline {4.32}Direkte vs. indirekte Objektpronomen}{34}{section.4.32}%
+\contentsline {section}{\numberline {4.33}Die Verwendung von \textit {mismo}}{35}{section.4.33}%
+\contentsline {section}{\numberline {4.34}Der reale Bedingungssatz}{35}{section.4.34}%
+\contentsline {section}{\numberline {4.35}\textit {mientras}, \textit {durante} und \textit {cuando}}{36}{section.4.35}%
+\contentsline {section}{\numberline {4.36}Vergleiche bei Nomen}{36}{section.4.36}%
+\contentsline {chapter}{\numberline {5}Verbos iregulares}{38}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Frases}{40}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Textos}{41}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Vocabulario}{42}{chapter.8}%
